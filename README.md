@@ -13,4 +13,4 @@ I wrote this VERY quickly a few years back for a SQL migration project. I will u
 * Generate SQL Script for Query Analyser
 * Generate VB Source code to create a target database via DAO objects or DAO SQL Execute statements
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.JPG)
